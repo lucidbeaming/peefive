@@ -1,0 +1,554 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"back",
+				"background-attachment"
+			],
+			[
+				"in",
+				"in_array"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"load",
+				"loadCSS"
+			],
+			[
+				"sort",
+				"sortvar"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"pos",
+				"posterblock"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"nav",
+				"nav-collapse"
+			],
+			[
+				"var_d",
+				"var_dump"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"B",
+				"BreeSerifTh"
+			],
+			[
+				"s",
+				"serif"
+			],
+			[
+				"fon",
+				"font-family"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "p",
+		"selected_items":
+		[
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"format",
+				"CodeFormatter: Format Code"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"sync",
+				"SFTP: Sync Local -> Remote…"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"chrome",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: bs3-col-4"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/slor/ -WEB/Git/peefive"
+	],
+	"file_history":
+	[
+		"/Users/slor/ -WEB/Git/gray-lab/engine.js",
+		"/Users/slor/ -WEB/Git/gray-lab/.gitignore",
+		"/Users/slor/ -WEB/Git/photo/lucid.json",
+		"/Users/slor/ -WEB/Git/photo/sort.php",
+		"/Users/slor/ -WEB/Git/photo/.htaccess",
+		"/Users/slor/ -WEB/Git/photo/settings.php",
+		"/Users/slor/ -WEB/Git/photo/sort.json",
+		"/Users/slor/ -WEB/Git/photo/photo.php",
+		"/Users/slor/Desktop/DEPARTURE: Wed, Jan 18, 2017 | Economy | View Seat",
+		"/Users/slor/ -WEB/Git/photo/gallery.php",
+		"/Users/slor/ -WEB/Git/photo/templates/navigation.html",
+		"/Users/slor/ -WEB/Git/photo/four-oh-four.html",
+		"/Users/slor/Desktop/lenscratch/Joshua-Curry-statement.txt",
+		"/Users/slor/Desktop/lenscratch/Joshua-Curry-bio.txt",
+		"/Users/slor/ -WEB/Big Book App/user",
+		"/Users/slor/ -WEB/Git/photo/js/photoswipe-ui-default.min.js",
+		"/Users/slor/ -WEB/Git/photo/js/main.js",
+		"/Users/slor/ -WEB/Git/photo/array.php",
+		"/Users/slor/ -WEB/Git/photo/css/jc-min.css",
+		"/Users/slor/ -WEB/Git/photo/templates/header.html",
+		"/Users/slor/ -WEB/Git/photo/about.php",
+		"/Users/slor/ -WEB/Git/photo/video.php",
+		"/Users/slor/ -WEB/Git/photo/index.php",
+		"/Users/slor/ -WEB/Git/photo/instagram.php",
+		"/Users/slor/ -WEB/Git/photo/robots.txt",
+		"/Users/slor/ -WEB/Git/photo/sitemap.xml",
+		"/Users/slor/ -PHOTO/photo galleries",
+		"/Users/slor/Desktop/The new joshuacurry.com is now live!",
+		"/Users/slor/ -WEB/Git/photo/css/main.css",
+		"/Users/slor/ -WEB/Git/photo/templates/poster.html",
+		"/Users/slor/Desktop/photoj captions",
+		"/Users/slor/Desktop/haiti captions",
+		"/Users/slor/ -WEB/Git/photo/css/photoswipe.css",
+		"/Users/slor/Desktop/test.htm",
+		"/Users/slor/ -WEB/Git/photo/templates/image.html",
+		"/Users/slor/Desktop/getelementsbyclass.js",
+		"/Users/slor/ -WEB/Git/photo/templates/photoswipe.html",
+		"/Users/slor/ -WEB/Git/photo/gen.php",
+		"/Users/slor/ -WEB/Git/photo/haiti.php",
+		"/Users/slor/ -WEB/Git/photo/templates/singleimage.html",
+		"/Users/slor/ -WEB/Git/photo/sftp-config.json",
+		"/Users/slor/ -WEB/simple-icons-master/readme.md",
+		"/Users/slor/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/photo",
+		"/Users/slor/ -WEB/Git/photo/css/sftp-config.json",
+		"/Users/slor/ -WEB/Git/photo/photo.sublime-project",
+		"/Users/slor/ -WEB/Git/photo/footer.php",
+		"/Users/slor/ -WEB/Git/photo/header.php",
+		"/Users/slor/ -WEB/Git/photo/journals.php",
+		"/Users/slor/ -WEB/Git/photo/templates/instagram.html",
+		"/Users/slor/ -WEB/lucidbeaming/lucidkey.pem",
+		"/Users/slor/ -WEB/Git/photo/css/responsive-nav.css",
+		"/Users/slor/Library/Caches/TemporaryItems/Transmit/.tmp_smkikr/index.php",
+		"/Users/slor/Library/Caches/TemporaryItems/Transmit/.tmp_enkfca/wp-config.php",
+		"/Users/slor/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/slor/ -WEB/DreamFactory/Redesigns/mcdev/dreamfactory/css/style.css.map",
+		"/Users/slor/ -WEB/DreamFactory/Redesigns/mcdev/dreamfactory/js/obfuscated.js",
+		"/Users/slor/Library/Caches/TemporaryItems/Transmit/.tmp_hbhlbs/wp-config.php",
+		"/Users/slor/Library/Caches/TemporaryItems/Transmit/.tmp_glwefs/index.html",
+		"/Users/slor/DreamFactory/Redesigns/mcdev/modules/README.txt",
+		"/Users/slor/DreamFactory/Redesigns/mcdev/libraries/README.txt",
+		"/Users/slor/DreamFactory/Redesigns/mcdev/modules/sftp-config.json",
+		"/Users/slor/DreamFactory/Redesigns/mcdev/libraries/sftp-config.json",
+		"/Users/slor/DreamFactory/Redesigns/mcdev/dreamfactory/css/style.css",
+		"/Users/slor/DreamFactory/Redesigns/mcdev/dreamfactory/sftp-config.json",
+		"/Users/slor/DreamFactory/Redesigns/jcdev/sftp-config.json",
+		"/Users/slor/Library/Caches/Cleanup At Startup/Transmit/F60A7DC6-7BA5-4CEB-942E-F43792DE7F6D/.htaccess",
+		"/Users/slor/Library/Caches/Cleanup At Startup/Transmit/F7DEEC3E-412E-4094-8B2D-F46DCB5BBE29/backup_migrate_sftp.module",
+		"/Users/slor/DreamFactory/Emails/email-template-dreamforce.html",
+		"/Users/slor/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/slor/DreamFactory/Verizon/verizon-webinar.js",
+		"/Users/slor/DreamFactory/Emails/dreamforce.htm",
+		"/Users/slor/DreamFactory/Emails/email-template.html",
+		"/Users/slor/Desktop/Sign Up page Conversion Tracking Pixel.txt",
+		"/Users/slor/Desktop/Responsive_Template1.html",
+		"/Users/slor/DreamFactory/Emails/dreamforce3.htm",
+		"/Users/slor/DreamFactory/Redesigns/bendesign/CerberusClient.php",
+		"/Users/slor/DreamFactory/page--salesforce-page.tpl.php",
+		"/Users/slor/DreamFactory/page--salesforce_pages.tpl.php",
+		"/Users/slor/Library/Application Support/Sublime Text 3/Packages/Theme - Custom/Railscast2.tmTheme",
+		"/Users/slor/DreamFactory/Redesigns/stories/intel/intel.html",
+		"/Users/slor/DreamFactory/Redesigns/bendesign/js/main.js",
+		"/Users/slor/DreamFactory/Redesigns/sandbox.html",
+		"/Users/slor/DreamFactory/Redesigns/hubspot-url",
+		"/Users/slor/Library/Caches/Cleanup At Startup/Transmit/94D860B5-415B-4725-B3E1-57D061E88CB4/dogs.txt",
+		"/Users/slor/DreamFactory/Redesigns/bendesign/index.php",
+		"/Users/slor/DreamFactory/Redesigns/bendesign/header.php",
+		"/Users/slor/DreamFactory/animation/examples/blurred_lines.html",
+		"/Users/slor/Library/Application Support/Sublime Text 3/Packages/SFTP/SFTP.sublime-settings",
+		"/Users/slor/ -WEB/DreamFactory/Redesigns/bendesign/js/main.js",
+		"/Users/slor/ -WEB/DreamFactory/Redesigns/support-pricingoverview-7-24.html",
+		"/Users/slor/ -WEB/DreamFactory/Redesigns/bendesign/community.php",
+		"/Users/slor/ -WEB/DreamFactory/Redesigns/bendesign/user.php",
+		"/Users/slor/ -WEB/DreamFactory/Redesigns/bendesign/index.php",
+		"/Users/slor/ -WEB/DreamFactory/Redesigns/bendesign/features.php",
+		"/Users/slor/ -WEB/DreamFactory/Redesigns/bendesign/resources.php",
+		"/Users/slor/ -WEB/DreamFactory/Redesigns/bendesign/login.php",
+		"/Users/slor/ -WEB/DreamFactory/Redesigns/bendesign/subscriptions.php",
+		"/Users/slor/ -WEB/DreamFactory/Redesigns/bendesign/header.php",
+		"/Users/slor/ -WEB/DreamFactory/Redesigns/bendesign/signup.php",
+		"/Users/slor/ -WEB/DreamFactory/Redesigns/bendesign/css/styles.css",
+		"/Users/slor/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/slor/ -WEB/DreamFactory/Redesigns/bendesign/footer.php",
+		"/Users/slor/ -WEB/DreamFactory/Redesigns/bendesign/stories.php",
+		"/Users/slor/ -WEB/DreamFactory/Redesigns/bendesign/less/variables.less",
+		"/Users/slor/ -WEB/DreamFactory/Redesigns/bendesign/css/bootstrap.css",
+		"/Users/slor/ -WEB/DreamFactory/Redesigns/bendesign/less/bootstrap.less",
+		"/Users/slor/ -WEB/DreamFactory/Redesigns/bendesign/sftp-config.json",
+		"/Users/slor/ -WEB/DreamFactory/Redesigns/bendesign/index.html",
+		"/Users/slor/ -WEB/DreamFactory/Redesigns/bendesign/oscon.html",
+		"/Users/slor/ -WEB/DreamFactory/Emails/oscon.html",
+		"/Users/slor/Desktop/navController.js",
+		"/Users/slor/ -WEB/DreamFactory/dev site/templates/user-register.tpl.php",
+		"/Users/slor/ -WEB/DreamFactory/dev site/templates/sftp-config.json",
+		"/Users/slor/ -WEB/DreamFactory/dev site/js/sftp-config.json",
+		"/Users/slor/ -WEB/DreamFactory/dev site/css/sftp-config.json",
+		"/Users/slor/ -WEB/Git/dreamfactory/sites/all/themes/dreamfactory/css/bootstrap-df.css",
+		"/Users/slor/ -WEB/Git/dreamfactory/sites/all/themes/dreamfactory/css/dreamfactory.css",
+		"/Users/slor/ -WEB/DreamFactory/Redesigns/saleforce-product-logo-block.html",
+		"/Users/slor/Library/Caches/TemporaryItems/Transmit/.tmp_xoftqy/user-register.tpl.php",
+		"/Users/slor/ -WEB/Git/dreamfactory/sites/all/themes/dreamfactory/js/docsController.js",
+		"/Users/slor/ -WEB/Git/dreamfactory/sites/all/themes/dreamfactory/templates/page--pages.tpl.php",
+		"/Users/slor/Desktop/bootstrap-df.css",
+		"/Users/slor/ -WEB/Git/dreamfactory/sites/all/themes/dreamfactory/template.php",
+		"/Users/slor/ -WEB/Git/dreamfactory/sites/all/themes/dreamfactory/templates/sftp-config.json",
+		"/Users/slor/ -WEB/Git/dreamfactory/sites/all/themes/dreamfactory/templates/page--node--637.tpl.php",
+		"/Users/slor/ -WEB/Git/dreamfactory/sites/all/themes/dreamfactory/sftp-config.json",
+		"/Users/slor/Library/Caches/TemporaryItems/Transmit/.tmp_qilfpd/template.php",
+		"/Users/slor/ -WEB/DreamFactory/Redesigns/verizon-hubspot.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/slor/ -WEB/Git/dreamfactory/sites/all/themes/dreamfactory/css"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"aboutso",
+			"skateboarding",
+			"haiti",
+			"year",
+			"month",
+			"chunk",
+			"gal",
+			"medication",
+			"san francisco",
+			"san fran",
+			"san",
+			"<li>",
+			"'",
+			"\": \"",
+			"<li style='margin:0;padding:0;'>",
+			"e.",
+			"twelve",
+			"hover",
+			"$imageid",
+			"result",
+			"</iframe>\n</div>",
+			"    <div class=\"twelve columns\">",
+			"column",
+			" style=\"display:none\" ",
+			"</div></figure>",
+			"<figure class=\"k-content-embed\"><div class=\"k-content\">",
+			"caption",
+			"guts",
+			"$folders[1]",
+			"chunk",
+			"1920",
+			"1000",
+			"icons",
+			"value",
+			"device",
+			"src=\"img",
+			"#b83c23",
+			"&#13;",
+			"<table ",
+			"<table class=\"body-wrap\">",
+			"table",
+			"273",
+			"h2 class=\"icon\"",
+			"&w=750&h=500",
+			"&txt",
+			"&w=750&h=500",
+			"ht",
+			"\" src",
+			"=\"#\">",
+			"\" src=\"",
+			"&w=200&h=200",
+			"&txt",
+			" margin-bottom-sm",
+			"icon",
+			"collaps",
+			"nav",
+			" class=\"warning\"",
+			" class=\"active\"",
+			".table",
+			" class=\"warning\"",
+			" class=\"active\"",
+			"col-md-6",
+			"community-block",
+			"lightbox",
+			"success",
+			"slide-right",
+			" slide-left",
+			"btn-default",
+			"font",
+			"class=\"fa",
+			"<h2 class=\"text-center\"><i",
+			"APl",
+			"&h=400",
+			"col-md-6",
+			"col-md-4 col",
+			"col-md-9 col-sm-8",
+			"col-md-3 col-md-offset-0 col-sm-2 col-sm-offset-1 icon-column",
+			"col-sm-9 col-xs-8",
+			"col-sm-3 col-sm-offset-0 col-xs-2 col-xs-offset-1 icon-column",
+			"col-sm-3 col-xs-2 col-xs-offset-1 icon-column",
+			"btn-block",
+			" <hr />",
+			"<hr />",
+			"footer",
+			"col-md-2",
+			"theme-a",
+			"a",
+			"footer",
+			"hr",
+			"hover",
+			"button",
+			"n",
+			"button",
+			"butt",
+			"btn-default btn-lg",
+			"150&h=150",
+			"h2",
+			" class=\" class=\"block-title\"\"",
+			"<!-- /.block -->",
+			" class=\"leaf\"",
+			" class=\"first leaf\"",
+			" class=\"menu nav\"",
+			"class=\"block block-menu col-sm-3 clearfix\"",
+			"section",
+			" btn-default",
+			"fieldset",
+			"h2",
+			"navbar",
+			"class=\\\"([a-z]+ ?)+\\\"",
+			"class",
+			"register",
+			"https://www.dreamfactory.com",
+			"http://www.dreamfactory.com",
+			"dev",
+			"page-user",
+			"page-user-register",
+			"article.node",
+			"case-study",
+			"page-header",
+			"form-control",
+			"page-header",
+			"415",
+			".main-container",
+			"main-container",
+			"user-menu",
+			".form-control",
+			"user",
+			"user-register"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 280.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 241.0
+	},
+	"pinned_build_system": "",
+	"project": "peefive.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/ -WEB/Big Book App/site/bbapp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 236.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
