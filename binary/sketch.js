@@ -29,13 +29,14 @@
  * s                   : save png
  */
 'use strict';
-
+// initialize dimensions
 var x = 0;
 var y = 0;
 var stepSize = 5.0;
 
 var font = "Courier";
-var letters = "compossible doable feasible likely option possibility potential practicable workable superfluous maybe";
+// gray words array
+var letters = "maybe, sometimes, between, admist, middle, neutral, equal, fair, matched, parallel";
 var fontSizeMin = 3;
 var angleDistortion = 0.0;
 
@@ -48,14 +49,14 @@ function setup() {
   background(255);
   smooth();
   cursor(CROSS);
-
+// setup mouse positioning
   x = mouseX;
   y = mouseY;
 
   textFont(font);
   textAlign(LEFT);
   fill(0);
-
+// setup yes & no polars
 textSize(72);
   text("✅", displayWidth-130,(displayHeight/2)-30);
   textSize(72);
@@ -75,8 +76,8 @@ function draw() {
       push();
       translate(x, y);
       rotate(angle + random(angleDistortion));
-      binarydist = x / displayWidth;
-      fill(0,200,0, (binarydist * 255));
+      binarydist = x / displayWidth; // determine where on screen per display size
+      fill(0,200,0, (binarydist * 255)); // color changed per canvas location
       text(newLetter, 0, 0);
       pop();
 
@@ -89,7 +90,7 @@ function draw() {
   }
 }
 
-function mousePressed() {
+function mousePressed() { //mouse click activates text
   x = mouseX;
   y = mouseY;
 }
