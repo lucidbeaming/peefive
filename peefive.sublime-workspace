@@ -157,10 +157,13 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/slor/ -WEB/Git/peefive"
+		"/Users/slor/ -WEB/Git/peefive",
+		"/Users/slor/ -WEB/Git/peefive/binary"
 	],
 	"file_history":
 	[
+		"/Users/slor/ -WEB/Git/peefive/binary/sketch.js",
+		"/Users/slor/ -WEB/Git/peefive/empty-example/sketch.js",
 		"/Users/slor/ -WEB/Git/gray-lab/engine.js",
 		"/Users/slor/ -WEB/Git/gray-lab/.gitignore",
 		"/Users/slor/ -WEB/Git/photo/lucid.json",
@@ -286,9 +289,7 @@
 		"/Users/slor/ -WEB/Git/dreamfactory/sites/all/themes/dreamfactory/template.php",
 		"/Users/slor/ -WEB/Git/dreamfactory/sites/all/themes/dreamfactory/templates/sftp-config.json",
 		"/Users/slor/ -WEB/Git/dreamfactory/sites/all/themes/dreamfactory/templates/page--node--637.tpl.php",
-		"/Users/slor/ -WEB/Git/dreamfactory/sites/all/themes/dreamfactory/sftp-config.json",
-		"/Users/slor/Library/Caches/TemporaryItems/Transmit/.tmp_qilfpd/template.php",
-		"/Users/slor/ -WEB/DreamFactory/Redesigns/verizon-hubspot.html"
+		"/Users/slor/ -WEB/Git/dreamfactory/sites/all/themes/dreamfactory/sftp-config.json"
 	],
 	"find":
 	{
@@ -307,6 +308,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"blerp",
+			"mag",
+			" + (blerp*4)",
+			"500",
+			"900",
 			"aboutso",
 			"skateboarding",
 			"haiti",
@@ -429,12 +435,7 @@
 			"form-control",
 			"page-header",
 			"415",
-			".main-container",
-			"main-container",
-			"user-menu",
-			".form-control",
-			"user",
-			"user-register"
+			".main-container"
 		],
 		"highlight": true,
 		"in_selection": false,
