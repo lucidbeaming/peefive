@@ -7,9 +7,29 @@
   <script language="javascript" src="libraries/p5.sound.js"></script>
   <script language="javascript" type="text/javascript" src="sketch.js"></script>
   <!-- this line removes any default padding and style. you might only need one of these values set. -->
-  <style> body {padding: 0; margin: 0;} </style>
+  <style> 
+  body {padding: 0; margin: 0;} 
+  .controlset {
+  	width:300px;
+  	float:left;
+  	padding:20px;
+  }
+  .controlset input {
+  	display:block;
+  	float:left;
+  	clear:left;
+  }
+  .controlset label {
+  	display:block;
+  	margin: 0 5px;
+  	float:left;
+  }
+  </style>
 </head>
 
 <body>
+
+<div id="osc1" class="controlset"></div>
+<div id="osc2" class="controlset"></div>
 </body>
 </html>
