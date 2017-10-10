@@ -2,12 +2,22 @@ var playing1, playing2, osc1obj, osc2obj;
 var osctypes = ['sine', 'triangle', 'sawtooth', 'square']
 
 function setup() {
-    createCanvas(720, 256);
+    createCanvas(400, 400);
 
     osc1 = new p5.SinOsc(); // set frequency and type
     osc2 = new p5.SinOsc();
     osc1.amp(.5); // set volume to osc1
     osc2.amp(.5); // set volume to osc2
+
+    osc1.disconnect();
+    dix1 = new p5.Distortion(amount=1,oversample='4x');
+    osc1.connect(dix1);
+    dix1.connect();
+
+    osc2.disconnect();
+    dix2 = new p5.Distortion(amount=1,oversample='4x');
+    osc2.connect(dix2);
+    dix2.connect();
 
     fft1 = new p5.FFT();
     fft2 = new p5.FFT();
@@ -27,6 +37,13 @@ function setup() {
     textAlign(CENTER);
     fill(0, 180, 0);
 
+    radio11 = createRadio('osc1controls');
+    radio11.option("distortion on", 0);
+    radio11.option("distortion off", 1);
+    radio11.style('width', '100px');
+    textAlign(CENTER);
+    fill(0, 180, 0);
+
     radio2 = createRadio('osc2controls');
     radio2.option("sin", 0);
     radio2.option("tri", 1);
@@ -36,11 +53,22 @@ function setup() {
     textAlign(CENTER);
     fill(0, 180, 0);
 
+    radio21 = createRadio('osc1controls');
+    radio21.option("distortion on", 0);
+    radio21.option("distortion off", 1);
+    radio21.style('width', '100px');
+    textAlign(CENTER);
+    fill(0, 180, 0);
+
     osc1obj.child(radio1);
-    osc2obj.child(radio2);
+    osc2obj.child(radio11);
+    osc1obj.child(radio2);
+    osc2obj.child(radio21);
 
     radio1.value('0');
+    radio11.value('1');
     radio2.value('0');
+    radio21.value('1');
 }
 
 function draw() {

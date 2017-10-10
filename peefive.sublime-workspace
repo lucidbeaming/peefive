@@ -87,16 +87,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "liner.js",
-			"settings":
-			{
-				"buffer_size": 730,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "var i=0;"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -168,10 +158,14 @@
 	"expanded_folders":
 	[
 		"/Users/slor/ -WEB/Git/peefive",
-		"/Users/slor/ -WEB/Git/peefive/binary"
+		"/Users/slor/ -WEB/Git/peefive/binary",
+		"/Users/slor/ -WEB/Git/peefive/synth"
 	],
 	"file_history":
 	[
+		"/Users/slor/ -WEB/Git/peefive/liner.js",
+		"/Users/slor/ -WEB/Git/peefive/synth/index.html",
+		"/Users/slor/ -WEB/Git/peefive/synth/sketch.js",
 		"/Users/slor/ -WEB/Git/peefive/binary/sketch.js",
 		"/Users/slor/ -WEB/Git/peefive/empty-example/sketch.js",
 		"/Users/slor/ -WEB/Git/gray-lab/engine.js",
@@ -296,10 +290,7 @@
 		"/Users/slor/ -WEB/Git/dreamfactory/sites/all/themes/dreamfactory/js/docsController.js",
 		"/Users/slor/ -WEB/Git/dreamfactory/sites/all/themes/dreamfactory/templates/page--pages.tpl.php",
 		"/Users/slor/Desktop/bootstrap-df.css",
-		"/Users/slor/ -WEB/Git/dreamfactory/sites/all/themes/dreamfactory/template.php",
-		"/Users/slor/ -WEB/Git/dreamfactory/sites/all/themes/dreamfactory/templates/sftp-config.json",
-		"/Users/slor/ -WEB/Git/dreamfactory/sites/all/themes/dreamfactory/templates/page--node--637.tpl.php",
-		"/Users/slor/ -WEB/Git/dreamfactory/sites/all/themes/dreamfactory/sftp-config.json"
+		"/Users/slor/ -WEB/Git/dreamfactory/sites/all/themes/dreamfactory/template.php"
 	],
 	"find":
 	{
@@ -318,6 +309,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"radio1",
 			"blerp",
 			"mag",
 			" + (blerp*4)",
@@ -444,8 +436,7 @@
 			"page-header",
 			"form-control",
 			"page-header",
-			"415",
-			".main-container"
+			"415"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -463,41 +454,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "liner.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 730,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								730,
-								730
-							]
-						],
-						"settings":
-						{
-							"auto_name": "var i=0;",
-							"incomplete_sync": null,
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 26.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],

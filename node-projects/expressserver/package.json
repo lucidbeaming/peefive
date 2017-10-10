@@ -1,0 +1,19 @@
+{
+  "name": "expserv",
+  "version": "0.9.0",
+  "description": "serve stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "server",
+    "express"
+  ],
+  "author": "lucidbeaming",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.0"
+  }
+}
